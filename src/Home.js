@@ -41,7 +41,7 @@ export default function Home() {
               setName("");
             }}
           >
-            submit
+            submited
           </button>
         </div>
       </div>
